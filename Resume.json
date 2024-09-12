@@ -1,0 +1,79 @@
+//JSON Resume Data
+
+{
+  "name": "Faisal Rio",
+  "title": "Web Developer",
+  "contact": {
+    "email": "faisal.rio@example.com",
+    "phone": "+1-555-123-4567",
+    "linkedin": "linkedin.com/in/faisalrio",
+    "portfolio": "faisalrio.dev"
+  },
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "HTML5",
+    "CSS3",
+    "Responsive Design",
+    "Git",
+    "Webpack"
+  ],
+  "experience": [
+    {
+      "company": "Tech Innovations",
+      "role": "Senior Web Developer",
+      "duration": "June 2021 - Present",
+      "responsibilities": [
+        "Led the development of a new e-commerce platform using React and Node.js.",
+        "Implemented responsive designs to ensure cross-device compatibility.",
+        "Collaborated with UX/UI designers to enhance user experience."
+      ]
+    },
+    {
+      "company": "Web Solutions Inc.",
+      "role": "Frontend Developer",
+      "duration": "January 2019 - May 2021",
+      "responsibilities": [
+        "Developed interactive features for a high-traffic website using JavaScript and React.",
+        "Optimized website performance and accessibility.",
+        "Participated in code reviews and contributed to team knowledge sharing."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Tech",
+      "degree": "B.Sc. in Computer Science",
+      "year": 2018,
+      "honors": "Graduated with Distinction"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Certified React Developer",
+      "issuer": "React Academy",
+      "year": 2020
+    },
+    {
+      "title": "Full Stack Web Development",
+      "issuer": "Web Dev Bootcamp",
+      "year": 2019
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "description": "Personal portfolio showcasing my web development projects and skills.",
+      "technologies": ["React", "Gatsby", "GraphQL"],
+      "link": "faisalrio.dev/portfolio"
+    },
+    {
+      "name": "E-Commerce Platform",
+      "description": "A fully-featured e-commerce application with user authentication and payment integration.",
+      "technologies": ["React", "Node.js", "MongoDB"],
+      "link": "github.com/faisalrio/e-commerce-platform"
+    }
+  ],
+  "languages": ["English (Fluent)", "Spanish (Conversational)"]
+}
